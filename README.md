@@ -1,4 +1,5 @@
-![Solidity x ethereum](asserts/thumbnail.jpg)
+## Solidity Smart Contracts
+
 Each contract is located inside the `contracts/` folder, and includes comments and documentation for clarity.
 
 ---
