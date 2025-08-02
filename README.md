@@ -7,8 +7,8 @@ Each contract is located inside the `contracts/` folder, and includes comments a
 
 | #  | Contract Name        | Description                                     |
 |----|----------------------|-------------------------------------------------|
-| 1  | `TodoApp.sol`        | A personal to-do list manager per user wallet  |
-| 2  | `SimpleVoting.sol`   | A decentralized voting system with admin roles |
+| 1  | `todo.sol`        | A personal to-do list manager per user wallet  |
+| 2  | `voting_system.sol`   | A decentralized voting system with admin roles |
 | 3  | *(More coming soon)* | NFT marketplace, crowdfunding, DAO, etc.       |
 
 ---
@@ -43,18 +43,19 @@ Each contract is located inside the `contracts/` folder, and includes comments a
 
 ## ✅ Upcoming Projects
 
-- [ ] ERC-20 Token Implementation
-- [ ] NFT Minting and Marketplace
-- [ ] DAO with Token-Based Voting
-- [ ] Escrow Contract
-- [ ] Decentralized Lottery
+- [ ] Decentralized Notes App
+- [ ] Ether Piggy Bank
+- [ ] Basic Token (ERC-20 Clone)
 - [ ] Crowdfunding Platform
-
----
-
-## 📜 License
-
-All projects are open-source and licensed under the [MIT License](LICENSE).
+- [ ] Decentralized Escrow
+- [ ] Subscription Payment System
+- [ ] Decentralized Certificate Issuer
+- [ ] NFT Marketplace (Basic)
+- [ ] DAO (Decentralized Autonomous Organization)
+- [ ] Upgradable Contracts (using Proxy Pattern)
+- [ ] Decentralized Insurance
+- [ ] DeFi Lending Protocol (Mini Aave/Compound)
+- [ ] GameFi - Battle Game
 
 ---
 
