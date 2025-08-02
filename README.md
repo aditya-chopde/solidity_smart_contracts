@@ -1,4 +1,4 @@
-
+![Solidity x ethereum](asserts/thumbnail.jpg)
 Each contract is located inside the `contracts/` folder, and includes comments and documentation for clarity.
 
 ---
