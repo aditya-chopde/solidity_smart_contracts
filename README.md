@@ -10,7 +10,8 @@ Each contract is located inside the `contracts/` folder, and includes comments a
 |----|----------------------|-------------------------------------------------|
 | 1  | `todo.sol`        | A personal to-do list manager per user wallet  |
 | 2  | `voting_system.sol`   | A decentralized voting system with admin roles |
-| 3  | *(More coming soon)* | NFT marketplace, crowdfunding, DAO, etc.       |
+| 3  | `decentralized_notes_app.sol`   | A decentralized notes storing app |
+| 4  | *(More coming soon)* | NFT marketplace, crowdfunding, DAO, etc.       |
 
 ---
 
