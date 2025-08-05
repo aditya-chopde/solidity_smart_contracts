@@ -35,6 +35,25 @@
 					{
 						"indexed": true,
 						"internalType": "address",
+						"name": "_to",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "_amt",
+						"type": "uint256"
+					}
+				],
+				"name": "Transfered",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": true,
+						"internalType": "address",
 						"name": "_owner",
 						"type": "address"
 					},
@@ -82,8 +101,39 @@
 				"type": "function"
 			},
 			{
-				"inputs": [],
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "to",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_amt",
+						"type": "uint256"
+					}
+				],
+				"name": "transwerFunds",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_amt",
+						"type": "uint256"
+					}
+				],
 				"name": "withdraw",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "withdrawAll",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -121,11 +171,11 @@
 	},
 	"sources": {
 		"contracts/ether_piggy_bank.sol": {
-			"keccak256": "0x426ca9ce373f89efdec788164b2ec2e9b0405f956c8e1f591d7eb6302e66e46b",
+			"keccak256": "0x3ed8004b0839b32f3c2654cf3bca4372f86b14783801299d2cff1ec43d6b1ee4",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://cc1015060bc9a50751ecf0fe846c098acc7f85401c712a6d2308e3634c5cdaf8",
-				"dweb:/ipfs/QmdUSNEki62QDB2FRM2CoPbiVPSVAJ2Ro2TcvnWGWsygc9"
+				"bzz-raw://2c3cf61ea631deecc10be644a1fb34d673b8d531261f5b66502d626a217b85b2",
+				"dweb:/ipfs/QmTuGwSnjpgirHUmnonZNnb67pMasBiTBAfcQKE7peBeEy"
 			]
 		}
 	},
