@@ -12,7 +12,8 @@ Each contract is located inside the `contracts/` folder, and includes comments a
 | 2  | `voting_system.sol`   | A decentralized voting system with admin roles |
 | 3  | `decentralized_notes_app.sol`   | A decentralized notes storing app |
 | 4  | `ether_piggy_bank.sol`   | A decentralized Ehter Piggy Bank |
-| 5  | *(More coming soon)* | NFT marketplace, crowdfunding, DAO, etc.       |
+| 5  | `basci_erc_20_token.sol`   | A ERC20 Token Clone |
+| 6  | *(More coming soon)* | NFT marketplace, crowdfunding, DAO, etc.       |
 
 ---
 
@@ -46,7 +47,6 @@ Each contract is located inside the `contracts/` folder, and includes comments a
 
 ## ✅ Upcoming Projects
 
-- [ ] Basic Token (ERC-20 Clone)
 - [ ] Crowdfunding Platform
 - [ ] Decentralized Escrow
 - [ ] Subscription Payment System
