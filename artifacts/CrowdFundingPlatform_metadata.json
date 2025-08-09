@@ -261,11 +261,11 @@
 	},
 	"sources": {
 		"contracts/crowfunding_platform.sol": {
-			"keccak256": "0xc23a66cc0f1a4e1cefd4bffb65aaca3da112e27ba988c54d8f42a6993606e469",
+			"keccak256": "0x35383b7fe5ddcb5be4ef239a6e913e5cf78caa798f86a8d2438b63957e4cc5ff",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5904ba83ae3f2df1c6a00074908c85dddc6b30e142774572e7364c05fe4c8d46",
-				"dweb:/ipfs/QmbT1Ymj2xJ85yDWW89dLL599Y9pBHBRDwocepGgpp8UJn"
+				"bzz-raw://40ddb5da691140b0006e677cb9d41cd5992b02e7ad315dc1a40ebdebdf431633",
+				"dweb:/ipfs/QmR4iLfJH6qKhYWDXwgDq9gBMZ5eE5jMDRRpmendBLimQA"
 			]
 		}
 	},
